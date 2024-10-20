@@ -4,3 +4,11 @@ This package is a dual-publish of the [undici](https://www.npmjs.com/package/und
 
 - [GitHub nodejs/undici](https://github.com/nodejs/undici)
 - [Undici Documentation](https://undici.nodejs.org/#/)
+
+
+
+For Terminal to run TypeScript code :
+**tsc rotatestring.ts**
+
+For Terminal to run TypeScript code :
+**node rotatestring.js**
